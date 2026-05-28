@@ -219,4 +219,4 @@ debug=0x100 keepsyms=1 -vi2c-force-polling -wegnoegpu -igfxlowmem igfxonln=1 npc
 
 ---
 
-*Made with ❤️ by [suanaph](https://github.com/J4olahmXDev) · Bangkok, TH*
+*Made by [suanaph](https://github.com/J4olahmXDev) · TH*
